@@ -5,4 +5,5 @@ A simple repo to learn and test design patterns in JavaScript. Based on the extr
 ---
 
 [X] [Singleton Pattern](https://www.patterns.dev/posts/singleton-pattern/)
+
 [ ] [Proxy Pattern](https://www.patterns.dev/posts/proxy-pattern/)
